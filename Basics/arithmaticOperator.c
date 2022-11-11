@@ -19,6 +19,7 @@ int main()
 
     int remainder = num1 % num2;
     printf("%d %% %d = %d", num1, num2, remainder);
+    printf("hello");
 
     return 0;
 }
